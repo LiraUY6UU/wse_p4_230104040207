@@ -6,8 +6,7 @@ info:
     Kontrak API untuk praktikum #4 (Orders & Notifications).
     Pola: API-first -> Mock -> Test -> Implement.
   contact:
-    name: Alya Nur Medina (230104040226)
-    email: alya.medina12@gmail.com
+    name: Lira Anggraini (230104040207)
 servers:
   - url: http://localhost
 tags:

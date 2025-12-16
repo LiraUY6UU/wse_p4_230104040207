@@ -1,6 +1,6 @@
 # Definition of Done (DoD)
 
-**Praktikum 4 - Alya Nur Medina (230104040226)**
+**Praktikum 4 - Lira Anggraini (2330104040207)**
 
 ## Kriteria Selesai
 

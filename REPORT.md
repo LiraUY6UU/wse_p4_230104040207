@@ -1,6 +1,6 @@
 # Laporan Praktikum #4 – Web Service Development Methodologies (AGILE)
-**Nama/NIM**: <ALYA NUR MEDINA> - 230104040226
-**Kelas**: <TI23A>
+**Nama/NIM**: LIRA ANGGRAINI - 230104040207
+**Kelas**: TI23A
 **Repo/Zip**: 
 **Tanggal**: 2025-10-26
 
